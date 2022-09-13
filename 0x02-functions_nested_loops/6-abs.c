@@ -4,14 +4,9 @@
 * @n: integer from which to get an absolute value
 * Return: Always 0
 */
-int _abs(int r);
+int _abs(int n)
 {
-if (r >= 0)
-{
-return (r);
-}
-else
-{
-return (-r);
-}
+
+return (n >= 0 ? n : n * -1);
+
 }
