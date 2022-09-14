@@ -6,7 +6,6 @@ int _putchar(char c);
 * print_times_table - print the times table until n
 *
 * @n: n times table
-
 *
 * Return: No return
 */
@@ -25,7 +24,6 @@ for (i = 0; i <= n; i++)
 for (j = 0; j <= n; j++)
 {
 if ((i * j) < 10)
-
 {
 if (j != 0)
 {
