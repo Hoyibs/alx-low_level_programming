@@ -2,8 +2,8 @@
 
 /**
  * mul - checks for lowercase character.
- * @a: entero recibo por main.
- * @b: entero recibido por main
+ * @a: int type number
+ * @b: int type number
  * Return: 1 if c is uppercase
  */
 int mul(int a, int b)
