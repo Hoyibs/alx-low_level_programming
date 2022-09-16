@@ -2,7 +2,7 @@
 
 /**
  * _isdigit - checks for lowercase character.
- * @c: caracter recibo por main.
+ * @c: int to be checked
  * Return: 1 if c is uppercase
  */
 int _isdigit(int c)
